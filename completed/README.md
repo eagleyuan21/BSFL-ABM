@@ -1,6 +1,6 @@
 # Completed Models
 
-In this directory, there are three Netlogo files. "Fly Larva Eating Model" is the main model in which the most callibration and tests were ran on this model. More information and explanation about the model is provided in the info tab of the Netlogo interface.
+In this directory, there are three Netlogo files. "Fly Larva Eating Model" is the main model in which the most callibration and tests were ran on this model. More information and explanation about the model is provided in the docs/paper-final.pdf file as this model was primarily referenced and written in that paper or the info tab of the Netlogo interface.
 
 The "10 petri dishes" file is essentially the same thing as the "Fly Larva Eating Model", except the scenario is there are 10 petri dish, larva, and food source setups that are run at the same time.
 
