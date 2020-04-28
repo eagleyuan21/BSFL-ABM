@@ -1,5 +1,5 @@
 # Black Soldier Fly Larvae Agent-Based Model
-An Agent-Based model study of the foraging behavior of Black Soldier Fly Larvae
+An Agent-Based modeling research and study of the foraging behavior of Black Soldier Fly Larvae
 
 The modeling and documentation for this research were done during June 2018 through May 2019. This opportunity was provided through Oak Ridge High School under the guidance and mentoring from the Oak Ridge National Laboratory, Center for Nanophase Materials Sciences.
 
