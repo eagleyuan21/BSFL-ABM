@@ -1,6 +1,8 @@
 # Black Soldier Fly Larvae Agent-Based Model
 An Agent-Based modeling research and study of the foraging behavior of Black Soldier Fly Larvae
 
+This research won 1st place in the computer science division and 4th place overall at the Southern Appalachian Science and Engineering Fair (affiliated regional fair of ISEF).
+
 The modeling and documentation for this research were done during June 2018 through May 2019. This opportunity was provided through Oak Ridge High School under the guidance and mentoring from the Oak Ridge National Laboratory, Center for Nanophase Materials Sciences.
 
 The focus of the project was to understand the foraging behavior of Black Soldier Fly Larvae (BSFL). The reason why BSFL are of interest is because of their ability to feed on organic waste and in turn, these BSFL can be used as animal feed, which is an environmentally friendly recycling process. The ability to understand feeding behavior could perhaps optimize feeding rates, which in turn helps maximize the rate of recyling. Additional research has revealed that when BSFL eat collectivally, vortex movements form on the 2d plane. Therefore, the collective feeding movements of BSFL are reminiscent of other natural phenomena occurances, hence why an Agent-Based model was used, and the popular Agent-Based modeling software Netlogo was chosen to complete the model.
